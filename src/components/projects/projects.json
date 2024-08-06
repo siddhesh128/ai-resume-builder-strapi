@@ -1,0 +1,26 @@
+{
+  "collectionName": "components_projects_projects",
+  "info": {
+    "displayName": "Projects",
+    "icon": "lightbulb",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "technologies": {
+      "type": "string"
+    },
+    "livedemo": {
+      "type": "richtext"
+    },
+    "sourcecode": {
+      "type": "richtext"
+    },
+    "projectSummery": {
+      "type": "richtext"
+    }
+  }
+}
